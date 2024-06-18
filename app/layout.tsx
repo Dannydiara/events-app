@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "EventHive",
   description: "EventHive is a global event hub that spotlights diverse events taking place worldwide.",
   icons: {
-    icon: '../public/assets/images/logo.svg',
+    icon: '/assets/images/logo.png', // remind me to come finish this icon setup
   }
 };
 
