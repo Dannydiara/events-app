@@ -1,6 +1,6 @@
 Here's the updated README file with the inclusion of Shadcn:
 
-```markdown
+markdown
 # EventHive
 
 Welcome to **EventHive** - your go-to solution for seamless event organizing and meetings management. This project is powered by [Next.js](https://nextjs.org/), and was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
